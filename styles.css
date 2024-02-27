@@ -1,17 +1,7 @@
-div {
-    color: purple;
-}
-
-.alert-text {
-    color: red;
-}
-
-#title {
-    background-color: red;
-}
-
-.read,
-.unread {
+.head {
+    text-align: center;
+    background-color: green;
     color: white;
-    background-color: black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
 }
